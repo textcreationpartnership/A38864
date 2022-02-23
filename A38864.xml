@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact account of the raising the siege of Londonderry and the deplorable condition the town was in, till happily reliev'd by Major-General Kirk.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38864</idno>
+            <idno type="STC">Wing E3581</idno>
+            <idno type="STC">ESTC R36207</idno>
+            <idno type="EEBO-CITATION">15618667</idno>
+            <idno type="OCLC">ocm 15618667</idno>
+            <idno type="VID">104178</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38864)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104178)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1592:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact account of the raising the siege of Londonderry and the deplorable condition the town was in, till happily reliev'd by Major-General Kirk.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Wood ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Licensed August 9, 1689, J.F."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Londonderry (Northern Ireland) --  History --  Siege, 1689.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:104178:1" rendition="simple:additions"/>
+            <head>An Exact ACCOUNT OF THE <hi>Raiſing the Siege</hi> OF London-Derry: And the Deplorable Condition the TOWN was in, till happily Reliev'd by Major-General <hi>KIRK.</hi>
+            </head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Licenſed, <hi>Auguſt</hi> 9. 1689. <hi>J. F.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>A Gentleman, who left <hi>London-Derry</hi> on Sunday the Fourth In<g ref="char:EOLhyphen"/>ſtant, arrived in <hi>London</hi> on Thurſday the Eighth Inſtant, brings this Account, <hi>Viz.</hi>
+            </p>
+            <p>That the <hi>Iriſh</hi> Army ſeeing that <hi>London-Derry</hi> was Re<g ref="char:EOLhyphen"/>lie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, and that they were not able to hinder Succours going in, being in <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ead of the <hi>Engliſh</hi> Army arriving, King <hi>James,</hi> by Advice of his Coun<g ref="char:EOLhyphen"/>cil, thought fit to Command the Forces from before the place, to make what Strength he can to reſiſt them, believing himſelf not ſafe without a great Army to protect him; which Forces, as they retired, cauſed the Fort of <hi>Kulmore</hi> to be blown up, and the Gunner to be hanged, be<g ref="char:EOLhyphen"/>cauſe he did not prevent the Ships going up to the Town of <hi>Derry,</hi> and the Red and Green Caſtles upon the River to be demoliſhed; and like<g ref="char:EOLhyphen"/>wiſe burnt the Towns of <hi>Carrick-Fergus, Colraine, Belfaſt, Ralpho, Stra<g ref="char:EOLhyphen"/>bane, Donegall,</hi> and <hi>Antrim,</hi> with the whole Countries adjacent, even the very Graſs and Corn, driving all the Cattel before them; The Gar<g ref="char:EOLhyphen"/>riſon Sallied out upon the Rere, and cut off ſeveral Straglers, taking their Baggage; and had they had ſome Horſe, they would have given a very good Account of the <hi>Iriſh</hi> Forces.</p>
+            <pb n="2" facs="tcp:104178:2"/>
+            <p>The Noble Col. <hi>Walker</hi> having received the ſeaſonable Relief, ſent to Major-General <hi>Kirk</hi> to Complement him, giving him great Thanks, for that they had endured the utmoſt Extremity, as having eaten all that was eatable; and at laſt their Allowance was half a pound of Tal<g ref="char:EOLhyphen"/>low fryed with a piece of Hide, and a pint of Meal a Day, there being ſome hundreds that had periſhed for want of Food, and the Garriſon redu<g ref="char:EOLhyphen"/>ced to 4000 Fighting Men, who invited Major-General <hi>Kirk</hi> to Land, and Encamp themſelves on the place where the <hi>Iriſh</hi> Camp was. The Men in the <hi>Swallow</hi>'s Long-Boat cut the wooden part of the Boom, and the Ship broke the Iron part thereof, but the Wind ſlacking, were forced to tow her up, Captain <hi>Browning</hi> behaving himſelf wonderful well; but there beeing four Pieces of Cannon, and 2000 Small-ſhot plyed them hard upon the Shoar, unfortunately the Commander and ſeven Men more were killed. The Major-General now deſires ſome Horſe and Dragoons, that he may take the Field, and when he is joyned with the <hi>Enniſkil<g ref="char:EOLhyphen"/>ling</hi> and <hi>Ballyſhannon</hi> Forces, he will be not only able to ſecure that part of the Country, but even to come up to <hi>Dublin</hi> Walls.</p>
+            <p>The <hi>Enniskilling</hi> Forces have done Wonders, having not only beat all the <hi>Iriſh</hi> Forces, when-ever ſent againſt them, but preſerved the Country entire for ſeveral Miles, and by that means hath protected ſeveral Thouſands of the <hi>Engliſh</hi> Proteſtants, which otherwiſe muſt have certainly periſhed.</p>
+            <p>We have likewiſe Advice from <hi>Dublin,</hi> That one <hi>Thompſon,</hi> a Ship-Carpenter of <hi>Liverpool,</hi> bought a Wherry, and pretended to go try her at Sea, went over to <hi>Dublin</hi> on the firſt of <hi>Auguſt,</hi> and gave King <hi>James</hi> an Account of a great Army coming out of <hi>England:</hi> To which the King replyed, That he always believed it, though he was perſwa<g ref="char:EOLhyphen"/>ded by his Council to the contrary.</p>
+            <p>We likewiſe hear, that ſeveral of their Officers have laid down their Commiſſions; and particularly Sir <hi>Gregory Burne,</hi> Sir <hi>Luke Dowdall,</hi> and Mr. <hi>Warren</hi> of <hi>Cardaffe,</hi> being Captains of the Royal Regiment, in hopes to ſave their Eſtates; and many more of them would do the like, there having been a whole Regiment mutinied, laid down their Arms, ſaying, they would not fight againſt the <hi>Engliſh,</hi> as having ne<g ref="char:EOLhyphen"/>ver lived ſo well, as under the <hi>Engliſh</hi> Government, and that now the Proverb was fulfilled, <hi>That the</hi> Iriſh <hi>ſhould weep over the</hi> Engliſh-<hi>men's Graves.</hi> God grant we may live in Unity, and enjoy one another in the Bond of Peace.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>R. Wood,</hi> in <hi>Fleet-ſtreet.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
